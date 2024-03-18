@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I think I am not funny**
 
+![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/GhoshAgniva/GhoshAgniva/assets/130777118/ac65f0a7-b96a-4dff-bb72-8309e1038ce3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
