@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Nhq266nY6clmBU0lkv3TR_elFh29i322/view](https://drive.google.com/file/d/1Nhq266nY6clmBU0lkv3TR_elFh29i322/view)
 
-- ⚡ Fun fact **I think I am not funny**
+
 
 ![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/GhoshAgniva/GhoshAgniva/assets/130777118/ac65f0a7-b96a-4dff-bb72-8309e1038ce3)
 
