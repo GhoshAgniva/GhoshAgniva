@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ghoshagniva52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nhq266nY6clmBU0lkv3TR_elFh29i322/view](https://drive.google.com/file/d/1Nhq266nY6clmBU0lkv3TR_elFh29i322/view)
+- 📄 Know about my experiences[ [https://drive.google.com/file/d/1Nhq266nY6clmBU0lkv3TR_elFh29i322/view](https://drive.google.com/file/d/1Nhq266nY6clmBU0lkv3TR_elFh29i322/view)](https://drive.google.com/file/d/1HCPyuql-2kY62sg73LDw8Zg4zFKnMvpD/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
