@@ -159,21 +159,7 @@ This isn't my primary professional domain yet, but it's an area I actively pract
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhoshAgniva&show_icons=true&theme=default" alt="Agniva's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshAgniva&theme=default" alt="Agniva's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhoshAgniva&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
 
 ## 🌱 Currently Learning / Fun Facts
 
