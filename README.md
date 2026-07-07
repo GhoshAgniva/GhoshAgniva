@@ -177,8 +177,7 @@ This isn't my primary professional domain yet, but it's an area I actively pract
   <a href="http://www.linkedin.com/in/ghoshagniva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ghoshagniva52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/GhoshAgniva"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-add--your--link--here-lightgrey?style=for-the-badge" /></a>
-</p>
+/p>
 
 ---
 
